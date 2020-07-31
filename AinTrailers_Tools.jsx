@@ -106,7 +106,7 @@ function() {
     atbase[_0x187c("0x1")] = _0x2f9240("+/");
     atbase[_0x187c("0x2")] = _0x4c2bb7("-_");
     atbase[_0x187c("0x3")] = _0x2f9240("-_");
-}();
+}
 
 function() {
     function _0x4be233(_0x26e672) {
